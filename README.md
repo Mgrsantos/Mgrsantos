@@ -10,15 +10,12 @@ Backend Developer focada em APIs escaláveis, seguras e performáticas.
 ---
 
 ## 🧠 Core Skills
-• Backend: Java, Python, Node.Js e Golang
-• Frontend: React, Java Script, HTML e CSS
-• Frameworks: Spring Boot
-• APIs Reset
-• SQL: MySql, SQL Server e Postgre SQL
-• NoSql: MongoDB
-• Cloud: AWS (EC2, ECS, EKS), Microservices
-• Ferramentas: Docker, GitHub e Postman
-• Ágil: JIRA e Scrum
+Backend: Java (Spring Boot) e Node.js  
+APIs REST • Autenticação JWT • Modelagem de dados  
+Banco de Dados: PostgreSQL e MySQL  
+Ferramentas: Docker, Git, Postman  
+Cloud: AWS (conceitos básicos)  
+Metodologias: Scrum
 
 ---
 
