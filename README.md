@@ -1,11 +1,11 @@
-# 👩‍💻 Gabriela Santos
+# 👩‍💻 Gabriela Rondon
 
 Backend Developer focada em APIs escaláveis, seguras e performáticas.
 
 ---
 
 ## 🚀 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,python,docker,postgres,mysql,aws)
+![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,docker,postgres,mysql,aws)
 
 ---
 
