@@ -1,7 +1,6 @@
 # 👩‍💻 Gabriela Rondon
 
-Backend Developer focada em APIs escaláveis, seguras e performáticas.
-
+Backend Developer | Java & Spring Boot | APIs REST | Clean Architecture
 ---
 
 ## 🚀 Tech Stack
