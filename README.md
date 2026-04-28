@@ -1,78 +1,64 @@
-# 👩‍💻 Gabriela Rondon
+👩‍💻 Gabriela Rondon
 
-Backend Developer | Java • Spring Boot • APIs REST • Docker • PostgreSQL
+Backend Developer (Jr → Pleno) | Java • Spring Boot • .NET • C# • APIs REST • Docker • PostgreSQL
 
-Desenvolvedora focada em backend, com experiência na construção de APIs REST seguras e escaláveis, utilizando boas práticas como arquitetura em camadas, validação de dados e autenticação com JWT.
+Desenvolvedora backend com experiência na construção de APIs REST seguras, escaláveis e bem estruturadas, atuando tanto no ecossistema Java quanto com .NET e C#.
 
----
+Tenho foco em desenvolvimento orientado a boas práticas, como arquitetura em camadas, separação de responsabilidades, validação de dados e autenticação com JWT.
+Busco evoluir continuamente para nível pleno, ampliando minha autonomia em decisões técnicas e construção de soluções mais robustas.
 
-## 🚀 Tech Stack
+Experiência prática com desenvolvimento, testes e integração de APIs, utilizando ferramentas modernas como IntelliJ IDEA e o ecossistema .NET.
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,docker,postgres,mysql,aws)
+🧠 Core Skills
+Backend Development
+Java (Spring Boot)
+C# com .NET
+Node.js
+Desenvolvimento e padronização de APIs REST
+Estruturação de aplicações em arquitetura em camadas
+Autenticação e autorização com JWT
 
----
+Banco de Dados
+PostgreSQL e MySQL
+Modelagem relacional
+Integração com ORM (JPA / Entity Framework - básico)
+Ferramentas & DevOps
 
-## 🧠 Core Skills
+Docker & Docker Compose
+Git & GitHub
+Postman
+Desenvolvimento com IntelliJ IDEA
 
-**Backend Development**
+Cloud & Metodologias
+AWS (EC2 e fundamentos de cloud)
+Scrum / Metodologias ágeis
 
-* Java (Spring Boot) e Node.js
-* Desenvolvimento de APIs REST
-* Autenticação e autorização com JWT
+📌 Projetos em destaque
+🔐 API REST com autenticação JWT
+Implementação de autenticação e geração de token
+Proteção de endpoints e controle de acesso
+Validação de dados e tratamento global de exceções
 
-**Banco de Dados**
+🐳 Backend containerizado (Spring Boot / .NET)
+APIs containerizadas com Docker
+Integração com PostgreSQL em ambiente isolado
+Configuração de ambientes reproduzíveis
 
-* PostgreSQL e MySQL
-* Modelagem de dados e integração com JPA
+🌐 Integração com APIs externas
+Consumo de serviços REST
+Tratamento de erros e padronização de respostas
+Integração entre sistemas
 
-**Ferramentas & DevOps**
-
-* Docker & Docker Compose
-* Git & GitHub
-* Postman
-
-**Cloud & Metodologias**
-
-* AWS (conceitos e prática com EC2)
-* Scrum / Metodologias ágeis
-
----
-
-## 📌 Projetos em destaque
-
-### 🔐 API REST com autenticação JWT
-
-* Implementação de login e geração de token
-* Proteção de endpoints com segurança
-* Validação de dados e tratamento global de erros
-
-### 🐳 Backend com Spring Boot + Docker
-
-* API containerizada com Docker
-* Integração com PostgreSQL em ambiente isolado
-* Estrutura baseada em boas práticas de mercado
-
-### 🌐 Integração com API externa
-
-* Consumo de serviços externos
-* Tratamento de respostas e erros
-* Padronização de dados
-
----
-
-## 📈 Diferenciais
-
-✔ Código organizado em arquitetura em camadas
+📈 Diferenciais
+✔ Organização de código com foco em legibilidade e manutenção
 ✔ Uso de DTO para desacoplamento
-✔ Validação com Bean Validation
-✔ Tratamento global de exceções
-✔ Documentação com Swagger
+✔ Boas práticas de validação e tratamento de erros
+✔ Documentação com Swagger / OpenAPI
 ✔ Experiência prática com Docker
-
----
+✔ Capacidade de atuar em mais de um ecossistema (Java e .NET)
+✔ Evolução contínua com foco em autonomia técnica
 
 ## 📫 Contato
-
 * 💼 LinkedIn: https://www.linkedin.com/in/gabrielarondondev/
 * 📧 Email: [gabrielasaantos294@gmail.com](mailto:gabrielasaantos294@gmail.com)
 
