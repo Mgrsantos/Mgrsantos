@@ -1,5 +1,5 @@
 # 👩‍💻 Gabriela Rondon
-**Backend Developer (Jr → Pleno)** | Java • Spring Boot • .NET • C# • APIs REST • Docker • PostgreSQL
+**Backend Developer (Pleno)** | Java • Spring Boot • .NET • C# • Python • APIs REST • Docker • AWS • PostgreSQL
 
 Desenvolvedora backend com experiência em APIs REST seguras e escaláveis nos ecossistemas Java e .NET. Foco em boas práticas: arquitetura em camadas, autenticação JWT, validação de dados e separação de responsabilidades.
 
