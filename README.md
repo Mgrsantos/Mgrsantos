@@ -42,4 +42,4 @@ para exploração e visualização dos resultados.
 
 🔗 [github.com/Mgrsantos/portfolio-analyzer](https://github.com/Mgrsantos/portfolio-analyzer)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Rondon-blue?style=flat&logo=linkedin)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Rondon-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabrielarondondev/)
