@@ -10,48 +10,16 @@ Atuo na construção de aplicações escaláveis, aplicando boas práticas de de
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,angular,vue,js,ts,html,css,figma,git,github)
+![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,html,css,figma,git)
 
 ### Frontend
-* React
-* Angular
-* Vue.js
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* SCSS
-
-### Frameworks & Libraries
-* Next.js
-* Angular Material
-* Bootstrap
-* RxJS
+React • Angular • TypeScript • JavaScript • HTML5 • CSS3
 
 ### Especialidades
-* Arquitetura Frontend
-* Componentização
-* Design Systems
-* Responsividade
-* Acessibilidade (WCAG)
-* Performance Web
-* UX/UI
-* Otimização de Interfaces
-* Clean Code
-* Escalabilidade de Aplicações
+Componentização • Design Systems • Responsividade • Performance Web • UX/UI
 
 ### Ferramentas
-* Git
-* GitHub
-* Figma
-* Chrome DevTools
-* Postman
-
-### Metodologias
-
-* Scrum
-* Jira
-* Desenvolvimento Ágil
+Figma • Git • GitHub
 
 ---
 
