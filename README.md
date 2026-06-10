@@ -1,28 +1,82 @@
 # Gabriela Rondon
-Frontend Developer | React · Angular · JavaScript · TypeScript · HTML · CSS · Docker · AWS
 
-Desenvolvedora Frontend especializada em construção de interfaces modernas, responsivas e integradas a APIs REST. Foco em performance, qualidade de código e entrega de soluções escaláveis para produção.
+### Frontend Developer | React · Angular · TypeScript · JavaScript
+
+Desenvolvedora Frontend especializada na criação de interfaces modernas, responsivas e acessíveis. Experiência no desenvolvimento de aplicações web utilizando React, Angular, TypeScript e JavaScript, com foco em componentização, Design Systems, performance, usabilidade e experiência do usuário.
+
+Atuo na construção de aplicações escaláveis, aplicando boas práticas de desenvolvimento Frontend, arquitetura de componentes e interfaces intuitivas que proporcionam uma excelente experiência para o usuário.
 
 ---
 
 ## 🚀 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,angular,js,ts,html,css,docker,aws,figma)
 
-Frontend: React, Angular, JavaScript, TypeScript, HTML5, CSS3, SCSS
+![My Skills](https://skillicons.dev/icons?i=react,angular,vue,js,ts,html,css,figma,git,github)
 
-Frameworks & Ecossistema: Next.js, Angular Material, Bootstrap, RxJS
+### Frontend
+* React
+* Angular
+* Vue.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* SCSS
 
-Especialidades: Arquitetura Frontend, Componentização, Design Systems, Responsividade, Acessibilidade, Performance Web, Otimização de Interfaces, Experiência do Usuário (UX), Manutenibilidade e Escalabilidade de Aplicações
+### Frameworks & Libraries
+* Next.js
+* Angular Material
+* Bootstrap
+* RxJS
 
-Ferramentas: Git, GitHub, Figma, Chrome DevTools, Postman
+### Especialidades
+* Arquitetura Frontend
+* Componentização
+* Design Systems
+* Responsividade
+* Acessibilidade (WCAG)
+* Performance Web
+* UX/UI
+* Otimização de Interfaces
+* Clean Code
+* Escalabilidade de Aplicações
 
-Metodologias: Scrum, Jira, Desenvolvimento Ágil
+### Ferramentas
+* Git
+* GitHub
+* Figma
+* Chrome DevTools
+* Postman
 
+### Metodologias
+
+* Scrum
+* Jira
+* Desenvolvimento Ágil
 
 ---
 
-🔗 [github.com/Mgrsantos/portfolio-analyzer](https://github.com/Mgrsantos/portfolio-analyzer)
+## 💼 Projetos em Destaque
+
+### 🧠 Tech Quiz
+
+Aplicação web interativa para desafios de conhecimento em tecnologia, desenvolvida com foco em experiência do usuário, componentização e interfaces responsivas.
+
+🔗 Projeto: https://github.com/Mgrsantos/tech_quiz
+
+### 📝 Task Notes
+
+Aplicação para gerenciamento de tarefas e anotações com interface moderna e intuitiva, focada em produtividade, organização e usabilidade.
+
+🔗 Projeto: https://github.com/Mgrsantos/Tesk-Notes
+
+### ⚽ Copa do Mundo 2026 - Álbum de Figurinhas
+
+Aplicação inspirada no álbum da Copa do Mundo 2026, permitindo controle de figurinhas, progresso da coleção e compartilhamento para trocas.
+
+🔗 Projeto: https://github.com/Mgrsantos
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Rondon-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabrielarondondev/)
+## 🌎 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Rondon-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gabrielarondondev/)
