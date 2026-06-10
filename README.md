@@ -8,11 +8,16 @@ Desenvolvedora Frontend especializada em construção de interfaces modernas, re
 ## 🚀 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=react,angular,js,ts,html,css,docker,aws,figma)
 
-**Frontend:** React · Angular · JavaScript · TypeScript · HTML · CSS  
-**Estilização:** Tailwind CSS · Styled Components  
-**Ferramentas:** Git · Docker · Postman · Figma  
-**Cloud:** AWS · Azure  
-**Métodos:** Scrum · Code Review · Boas práticas (Clean Code, componentização)
+Frontend: React, Angular, JavaScript, TypeScript, HTML5, CSS3, SCSS
+
+Frameworks & Ecossistema: Next.js, Angular Material, Bootstrap, RxJS
+
+Especialidades: Arquitetura Frontend, Componentização, Design Systems, Responsividade, Acessibilidade, Performance Web, Otimização de Interfaces, Experiência do Usuário (UX), Manutenibilidade e Escalabilidade de Aplicações
+
+Ferramentas: Git, GitHub, Figma, Chrome DevTools, Postman
+
+Metodologias: Scrum, Jira, Desenvolvimento Ágil
+
 
 ---
 
