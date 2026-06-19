@@ -2,9 +2,7 @@
 
 ### Frontend Developer | React · Angular · TypeScript · JavaScript
 
-Desenvolvedora Frontend especializada na criação de interfaces modernas, responsivas e acessíveis. Experiência no desenvolvimento de aplicações web utilizando React, Angular, TypeScript e JavaScript, com foco em componentização, Design Systems, performance, usabilidade e experiência do usuário.
-
-Atuo na construção de aplicações escaláveis, aplicando boas práticas de desenvolvimento Frontend, arquitetura de componentes e interfaces intuitivas que proporcionam uma excelente experiência para o usuário.
+Desenvolvedora Frontend especializada na criação de interfaces modernas, responsivas e acessíveis utilizando Angular, JavaScript e TypeScript. Experiência em componentização, design systems, estilização com CSS, responsividade, performance e usabilidade. Foco na construção de experiências intuitivas, manutenção de código limpo e escalável, aplicação de boas práticas de desenvolvimento e entrega de produtos digitais com alta qualidade visual e funcional. Conhecimento prático em integração com APIs REST, documentação com Swagger e deploy de serviços back-end com Java/Spring Boot e Node.js.
 
 ---
 
