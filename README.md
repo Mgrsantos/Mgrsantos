@@ -1,23 +1,18 @@
 # Gabriela Rondon
 
-### Frontend Developer | React · Angular · TypeScript · JavaScript
+### Frontend Developer | React · Angular · TypeScript
 
-Desenvolvedora Frontend especializada na criação de interfaces modernas, responsivas e acessíveis utilizando Angular, JavaScript e TypeScript. Experiência em componentização, design systems, estilização com CSS, responsividade, performance e usabilidade. Foco na construção de experiências intuitivas, manutenção de código limpo e escalável, aplicação de boas práticas de desenvolvimento e entrega de produtos digitais com alta qualidade visual e funcional. Conhecimento prático em integração com APIs REST, documentação com Swagger e deploy de serviços back-end com Java/Spring Boot e Node.js.
+Desenvolvedora Frontend especializada na criação de interfaces modernas, responsivas e acessíveis utilizando Angular, React e TypeScript. Experiência em componentização, design systems, estilização com CSS, responsividade, performance e usabilidade. Foco na construção de experiências intuitivas, manutenção de código limpo e escalável, aplicação de boas práticas de desenvolvimento e entrega de produtos digitais com alta qualidade visual e funcional.
+
+Possuo conhecimento em integração com APIs REST e também experiência com tecnologias back-end utilizando Java/Spring Boot e Node.js para desenvolvimento e consumo de serviços.
 
 ---
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,html,css,figma,git)
-
-### Frontend
-React • Angular • TypeScript • JavaScript • HTML5 • CSS3
-
-### Especialidades
-Componentização • Design Systems • Responsividade • Performance Web • UX/UI
-
-### Ferramentas
-Figma • Git • GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,ts,angular,react,nodejs,java,spring" />
+</p>
 
 ---
 
