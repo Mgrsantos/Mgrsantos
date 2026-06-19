@@ -1,7 +1,5 @@
 # Gabriela Rondon
 
-### Frontend Developer | React · Angular · TypeScript
-
 Desenvolvedora Frontend especializada na criação de interfaces modernas, responsivas e acessíveis utilizando Angular, React e TypeScript. Experiência em componentização, design systems, estilização com CSS, responsividade, performance e usabilidade. Foco na construção de experiências intuitivas, manutenção de código limpo e escalável, aplicação de boas práticas de desenvolvimento e entrega de produtos digitais com alta qualidade visual e funcional.
 
 Possuo conhecimento em integração com APIs REST e também experiência com tecnologias back-end utilizando Java/Spring Boot e Node.js para desenvolvimento e consumo de serviços.
