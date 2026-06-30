@@ -38,4 +38,6 @@ Aplicação inspirada no álbum da Copa do Mundo 2026, permitindo controle de fi
 
 ## 🌎 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Rondon-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gabrielarondondev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Rondon-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielarondondev/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-11%2095394--6646-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511953946646)
+[![E-mail](https://img.shields.io/badge/E--mail-gabrielarondonst%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielarondonst@gmail.com)
