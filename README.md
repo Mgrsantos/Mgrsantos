@@ -17,10 +17,11 @@ Possuo conhecimento em integração com APIs REST e também experiência com tec
 ## 🎓 Certificações
 
 - 🏅 Desenvolvedor Profissional Frontend — **Meta**
+- 📚 Certificação em Bibliotecas de Desenvolvimento Front-End - **FreeCodeCamp**
 - ☁️ AWS Lambda — **Amazon Web Services**
 - ☁️ Deploying Microservices on Amazon EKS — **Amazon Web Services**
 - 🤖 Claude Code in Action — **Anthropic**
-
+- 
 ---
 
 ## 💼 Projetos em Destaque
