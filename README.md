@@ -45,7 +45,4 @@ Aplicação inspirada no álbum da Copa do Mundo 2026, permitindo controle de fi
   <a href="https://wa.me/5511953946646">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:gabrielarondonst@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
