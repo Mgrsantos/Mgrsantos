@@ -21,7 +21,7 @@ Possuo conhecimento em integração com APIs REST e também experiência com tec
 - ☁️ AWS Lambda - **Amazon Web Services**
 - ☁️ Deploying Microservices on Amazon EKS - **Amazon Web Services**
 - 🤖 Claude Code in Action - **Anthropic**
-- 
+
 ---
 
 ## 💼 Projetos em Destaque
